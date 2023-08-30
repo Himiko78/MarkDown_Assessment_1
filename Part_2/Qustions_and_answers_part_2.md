@@ -3,15 +3,21 @@ Assessment one for github cert 4
 Questions Part 2 are as follows
 
 1.	List three major version control for software engineering.
-	1. Answer:
+	1. Answer: Local Version control, Centralized version control and Distributed control
 	
 
 2.	What are the main advantages to using Git in your software development, and how is it useful for game developers.
-	1. Answer:
+	1. Answer: 
 	
 
 3.	Define the following terms in relation to Git. Branch, Pull, Push, repository, working copy, merge
-	1. Answer:
+	1. Branch -  Branches allow a user users to safely expirment with new ideos in a contained repository.
+	1. Pull - Used to fetch and download content from a server sided repository or immediately update a local one.
+	1. Push - Transfer changes/commits fronm a local repo to a server/remote repo.
+	1. repository - This contians all project files and revision history for projects the user is working on or has worked on.
+	1. working - 
+	1. copy - copy or clone is a way to get the project from the server/remote location and make a copy of it onto the users machine
+	1. merge - Git merge is basically putting a forked history back together again.
 	
 
 4.	If you are working at a company, which of their policies and procedures might relate to using version control systems such as Git.
@@ -31,19 +37,19 @@ Questions Part 2 are as follows
 	
 
 8.	What does git revert do, and how can you use it?
-	1. Answer:
+	1. Answer: A command from git is foward-moving undo operation aka revert which offers a safe method of undoing changes.
 	
 
 9.	What does git reset do, and how can you use it?
-	1. Answer:
+	1. Answer: Git reset is a command that undoes the change in the current/working directory to get back to a specific commit and discards all changes made to the one you used the reset command on.
 	
 
 10.	What is the difference between git revert and git reset?
-	1. Answer:
+	1. Answer: Git reset changes the histroy of commits while revert does not change the history.
 	
 
 11.	True or False: It is okay to commit broken code to the main branch.
-	1. Answer:
+	1. Answer:  While it may be ok to submit broken code to your won github page you should never submit broken code as it can significantly impact other developers with there contriubutions to the public repository.
 	
 
 12.	True or False: A commit should only include files that are related to the change you are committing to the repo.
@@ -51,7 +57,7 @@ Questions Part 2 are as follows
 
 
 13.	Describe what is DevOps, how is it useful for game developers?
-	1. Answer:
+	1. Answer: Devops helps to streamline game development by automating the build and testing it as well as deloy game assets within the game.
 	
 
 14.	List what tools can be used with DevOps. Give a brief description of each one. (at least 3)
