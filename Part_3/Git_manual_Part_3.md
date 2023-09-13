@@ -29,5 +29,10 @@ Imagine you are working at a game studio, and they want you to help with install
 
 3.	List the steps in a Git workflow that the team should follow when working on projects.
 	1. Git Hub recommends the following
-	1. Create a branch, Make changes, create a pull request, address review comments, merge your pull request, delete your branch.
+		1. Create a branch
+		1. Make changes
+		1. create a pull request
+		1. address review comments
+		1. merge your pull request
+		1. delete your branch.
 
